@@ -219,4 +219,3 @@ Best match >= threshold?
 
 ---
 
-*Project: Ostad.ai Module 17 — March 2026*
